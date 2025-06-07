@@ -42,7 +42,7 @@ This project implements the **A\*** search algorithm to solve the classic 8-puzz
 
 ## Screenshot
 
-![Output Example](Output puzzle.png)
+![Output Example](Output%20puzzle.png)
 
 ---
 
